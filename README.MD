@@ -16,5 +16,5 @@ The tool / programming language used for developing this software is Python
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [GitHub](https://github.com/)
+* [Python](https://www.python.org/)
